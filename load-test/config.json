@@ -3,5 +3,5 @@
   "path": "/",
   "requestsPerSecond": "100",
   "concurrency": "20",
-  "maxSeconds": "60"
+  "maxSeconds": "10"
 }

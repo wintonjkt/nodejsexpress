@@ -1,7 +1,7 @@
 const app = require('express')()
 
 app.get('/', (req, res) => {
-  res.send("Hello This is a Build Demo for CloudPak event!");
+  res.send("Hello this is Cloud Pak Application event!");
 });
  
 module.exports.app = app;
